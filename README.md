@@ -24,6 +24,25 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio)
 ---
 
+### ⚙️ &nbsp;Study Projects
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+
+---
+
+### ⚙️ &nbsp;Certifications
+I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
+- [Google Data Analytics](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (coursera)
+- [Git and Git Github Masterclass: The pratical Bootcamp](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (May 2024) (mygo1)
+- [SQL Fundamentals for Business Intelligence](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Apr 2024) (mygo1)
+- [Data Protecton, GDPR Compliance and Policy](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2024) (mygo1)
+- [Introduction ](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
+- [](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)
+- [](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
+- [](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
+- [](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
+- 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,4 +59,5 @@
 <p align="center">
 <a href="https://www.un.com/"><img alt="Website" src="https://img.shields.io/badge/website-KanyinsolaAdeleye.com-purple"></a>
 <a href="https://www.linkedin.com/in/kanyinsola-adeleye-17767122b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-KanyinsolaAdeleye-blue"></a>
+<a href="kanyinsolaadeleye.ka@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-KanyinsolaAdeleye-green"></a>
 </p>
