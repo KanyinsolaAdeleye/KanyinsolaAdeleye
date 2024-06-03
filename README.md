@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; I am currently working as a Data Analyst remotely at SunFi.
+- 🤔 &nbsp; I am currently working remotely as a Data Analyst at SunFi.
 - 🏦 &nbsp; I use ```.PowerBi```,``` .xls```, ```.sql``` daily.
 - 💼 &nbsp; I have a strong Educational background in Mathematics with a GPA of 3.48/4.00.
 - 🌱 &nbsp; Learning more about Business Analytics
