@@ -24,12 +24,12 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio)
 ---
 
-### ⚙️ &nbsp;Study Projects
+### 💻 &nbsp;Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
 
 ---
 
-### ⚙️ &nbsp;Certifications
+### 🎓 &nbsp;Certifications
 I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
 - [Google Data Analytics](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (coursera)
 - [Git and Git Github Masterclass: The pratical Bootcamp](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (May 2024) (mygo1)
