@@ -41,9 +41,9 @@ I believe the best way to showcase skills is by doing the work and sharing the r
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/kanyinsola-web">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanyinsola-web&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanyinsola-web&layout=compact&langs_count=8&theme=buefy"/>
+<a href="https://github.com/kanyinsolaAdeleye">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanyinsolaAdeleye&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanyinsolaAdeleye&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
