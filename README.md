@@ -31,16 +31,11 @@ In this section I will provide links to my github repositories containing code a
 
 ### 🎓 &nbsp;Certifications
 I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
-- [Google Data Analytics](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (coursera)
-- [Git and Git Github Masterclass: The pratical Bootcamp](https://drive.google.com/file/d/1EQ5p0F_acNAXgnKBhgGhxLl-8W6HlCid/view?usp=sharing) (May 2024) (mygo1)
-- [SQL Fundamentals for Business Intelligence](https://drive.google.com/file/d/1iRxdsndxcPoww3QvQIpDvq9rl_NcmoPj/view?usp=share_link) (Apr 2024) (mygo1)
-- [Data Protecton, GDPR Compliance and Policy](https://drive.google.com/file/d/15eC0plclsU2f3WFzQ7_cVvc-mA8M3h1Z/view?usp=share_link) (Feb 2024) (mygo1)
-- [Introduction ](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School)
-- [](https://drive.google.com/file/d/1aUNxDbRCgnKkSzq6LPLRY91Of3L_AyR7/view?usp=sharing) (May 2022) (France Université Numérique)
-- [](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
-- [](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
-- [](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
-- 
+- [Google Data Analytics](https://drive.google.com/drive/folders/1-cS1Bp8Pes_icRHUqRt_H-SGrm9Cyn2Q?usp=drive_link) (Jun 2023) (coursera)
+- [Git and Git Github Masterclass: The pratical Bootcamp](https://drive.google.com/file/d/1otke90Tu0YjwBA6Om3Vg8_C6ob7Sq-JC/view?usp=drive_link) (May 2024) (mygo1)
+- [SQL Fundamentals for Business Intelligence](https://drive.google.com/file/d/15W7lcSG7g7ENGUw9EfzoyJ5eOfCLhWSO/view?usp=sharing) (Apr 2024) (mygo1)
+- [Data Protecton, GDPR Compliance and Policy](https://drive.google.com/drive/folders/1-m3fIEo1-BpnY5ueWwoZKhKhCZpq4_yH?usp=sharing) (Feb 2024) (mygo1)
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
