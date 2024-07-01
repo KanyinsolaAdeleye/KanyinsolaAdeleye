@@ -25,7 +25,8 @@
 ---
 
 ### 💻 &nbsp;Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code:
+1. [CyclisticeBikeShare Analysis](https://github.com/KanyinsolaAdeleye/CyclisticBikeShare)
 
 ---
 
