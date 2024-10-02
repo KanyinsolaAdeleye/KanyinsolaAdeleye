@@ -32,6 +32,8 @@ In this section I will provide links to my github repositories containing code a
 
 ### 🎓 &nbsp;Certifications
 I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
+- [Introduction to Databases](https://drive.google.com/file/d/1bc8U9fO0lSnO7PGB6NAJ-OTVqqF9xXMf/view?usp=drive_link) (September 2024) (coursera)
+- [Relational Database Adminstration](https://drive.google.com/file/d/1UaAEsySjQzMYwd8v9P9e41GdXg2esCcP/view?usp=drive_link) (September 2024) (coursera)
 - [Google Data Analytics](https://drive.google.com/file/d/1eZCtQcBx4Hrnnxv8DYkKNCj3botCDOia/view?usp=drive_link) (June 2023) (coursera)
 - [Git and Git Github Masterclass: The pratical Bootcamp](https://drive.google.com/file/d/1tRRYJRw24FzHQEx3YE2OeoxAM1OS1qkX/view?usp=drive_link) (May 2024) (mygo1)
 - [SQL Fundamentals for Business Intelligence](https://drive.google.com/file/d/1qgyLjNosZUCq-CUoHyWkF2m3h36JlZVP/view?usp=sharing) (Apr 2024) (mygo1)
