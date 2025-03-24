@@ -27,12 +27,13 @@
 ### 💻 &nbsp;Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code:
 1. [CyclisticBikeShare Analysis](https://github.com/KanyinsolaAdeleye/CyclisticBikeShare)
+2. [Google Business Intelligence Certification- Cyclistic Trend](https://github.com/KanyinsolaAdeleye/Google_BI_Professional)
 
 ---
 
 ### 🎓 &nbsp;Certifications
 I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
-- [Google Business Intelligence](https://drive.google.com/file/d/1NiDRHCn_qUkWGEovkqxwWCnZ_AhC35P7/view?usp=drive_link) (December, 2024) (Coursera)
+- [Google Business Intelligence](https://drive.google.com/file/d/1eZCtQcBx4Hrnnxv8DYkKNCj3botCDOia/view?usp=drive_link) (December, 2024) (Coursera)
 - [Structured Problem Solving](https://drive.google.com/file/d/1lY3jeiVEw_ykCDg4jEBqOzqk_02bpXnx/view?usp=drive_link) (November, 2024) (mygo1)
 - [Critical Thinking and Problem Solving](https://drive.google.com/file/d/1ip6y8IS8g17cps4BbJHADDzsc_u5rpbs/view?usp=drive_link) (November, 2024) (mygo1)
 - [Introduction to Databases](https://drive.google.com/file/d/1bc8U9fO0lSnO7PGB6NAJ-OTVqqF9xXMf/view?usp=drive_link) (September 2024) (coursera)
