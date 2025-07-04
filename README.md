@@ -33,6 +33,7 @@ In this section I will provide links to my github repositories containing code a
 
 ### 🎓 &nbsp;Certifications
 I believe the best way to showcase skills is by doing the work and sharing the results. However, certificates can also serve as valuable proof of expertise. Here is a list of my certifications, presented in reverse chronological order with their completion dates::
+- [Business Analytics with Excel](https://drive.google.com/file/d/16BEPF6dgxoz9Mmw4_0wmT2OQP07LoNc7/view?usp=drive_link) (July 2025) (Coursera)
 - [Google Business Intelligence](https://drive.google.com/file/d/1eZCtQcBx4Hrnnxv8DYkKNCj3botCDOia/view?usp=drive_link) (December, 2024) (Coursera)
 - [Structured Problem Solving](https://drive.google.com/file/d/1lY3jeiVEw_ykCDg4jEBqOzqk_02bpXnx/view?usp=drive_link) (November, 2024) (mygo1)
 - [Critical Thinking and Problem Solving](https://drive.google.com/file/d/1ip6y8IS8g17cps4BbJHADDzsc_u5rpbs/view?usp=drive_link) (November, 2024) (mygo1)
