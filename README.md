@@ -28,7 +28,7 @@
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code:
 1. [CyclisticBikeShare Analysis](https://github.com/KanyinsolaAdeleye/CyclisticBikeShare)
 2. [Google Business Intelligence Certification- Cyclistic Trend](https://github.com/KanyinsolaAdeleye/Google_BI_Professional)
-3. [Data Anlytics Projects](https://github.com/KanyinsolaAdeleye/Data-Analysis-projects)
+3. [Learning Data Anlytics with Excel Projects](https://github.com/KanyinsolaAdeleye/Data-Analysis-projects)
 
 ---
 
